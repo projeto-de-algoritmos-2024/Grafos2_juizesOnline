@@ -32,19 +32,19 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 02](https://youtu.be/zOVgjp_EA3c)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
-## Problema 3: []()
+## Problema 3: [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/description/)
 
-- Nível: Médio
-- Conteúdo: 
+- Nível: Difícil
+- Conteúdo: Dijkstra
 - Explicação: [Explicação 03](./explicacao/problema03.md)
 - Implementação: [Código 03](./codigos/questao03.cpp)
 - Vídeo: [Implementação 03]()
 - Autor: [Gabriela](https://github.com/heylisten64)
 
-## Problema 4: []()
+## Problema 4: [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=53js48ke)
 
-- Nível: Difícil
-- Conteúdo: 
+- Nível: Médio
+- Conteúdo: Dijkstra
 - Explicação: [Explicação 04](./explicacao/problema04.md)
 - Implementação: [Código 04](./codigos/questao04.cpp)
 - Vídeo: [Implementação 04]()
