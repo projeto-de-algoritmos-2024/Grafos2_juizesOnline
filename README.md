@@ -20,7 +20,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Djikstra
 - Explicação: [Explicação 01](./explicacao/problema01.md)
 - Implementação: [Código 01](./codigos/questao01.cpp)
-- Vídeo: [Implementação 01]()
+- Vídeo: [Implementação 01](https://youtu.be/aSxCichHOGA)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
 ## Problema 2: [Novo Campus](https://judge.beecrowd.com/pt/problems/view/2550)
@@ -29,7 +29,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Prim
 - Explicação: [Explicação 02](./explicacao/problema02.md)
 - Implementação: [Código 02](./codigos/questao02.cpp)
-- Vídeo: [Implementação 02]()
+- Vídeo: [Implementação 02](https://youtu.be/zOVgjp_EA3c)
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
 ## Problema 3: []()
