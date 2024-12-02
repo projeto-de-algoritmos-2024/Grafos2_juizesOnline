@@ -23,10 +23,10 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 01]()
 - Autor: [Luiz Gustavo](https://github.com/luiz-gl-campos)
 
-## Problema 2: []()
+## Problema 2: [Novo Campus](https://judge.beecrowd.com/pt/problems/view/2550)
 
 - Nível: Difícil
-- Conteúdo: 
+- Conteúdo: Prim
 - Explicação: [Explicação 02](./explicacao/problema02.md)
 - Implementação: [Código 02](./codigos/questao02.cpp)
 - Vídeo: [Implementação 02]()

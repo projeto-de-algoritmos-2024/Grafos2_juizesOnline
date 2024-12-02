@@ -1,4 +1,5 @@
 ## [O Labirinto de Ninguém](https://judge.beecrowd.com/pt/problems/view/1850)
+Problema de grafos nível 7 da plataforma beecrowd | 1850
 
 
 Nunca tome uma das faces da Casa do Preto e Branco se você não é ‘Ninguém’, ainda que seja para matar Meryn Trant, ou você ficará cego, além de receber várias outras punições. Talvez você veja você mesmo se tornar ‘Ninguém’. Talvez seja isto que esteja acontecendo com Arya. Ou não. Fato é que agora ela está cega e foi colocada num labirinto cheio de portas trancadas. Você pode ajudá-la?
