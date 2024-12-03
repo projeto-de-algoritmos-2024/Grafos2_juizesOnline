@@ -38,7 +38,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Dijkstra
 - Explicação: [Explicação 03](./explicacao/problema03.md)
 - Implementação: [Código 03](./codigos/questao03.cpp)
-- Vídeo: [Implementação 03]()
+- Vídeo: [Implementação 03](https://youtu.be/AR_rW1__Ff4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 ## Problema 4: [Network Delay Time](https://leetcode.com/problems/network-delay-time/description/?envType=problem-list-v2&envId=53js48ke)
