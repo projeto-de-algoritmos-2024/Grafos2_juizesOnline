@@ -47,7 +47,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Conteúdo: Dijkstra
 - Explicação: [Explicação 04](./explicacao/problema04.md)
 - Implementação: [Código 04](./codigos/questao04.cpp)
-- Vídeo: [Implementação 04]()
+- Vídeo: [Implementação 04](https://youtu.be/KfDCSrul1wI)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 <!--
